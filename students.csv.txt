@@ -1,0 +1,11 @@
+student_id,name,age,math_score,physics_score,city
+1,Aarav,18,85,78,Chennai
+2,Meera,19,90,88,Coimbatore
+3,Rahul,18,72,70,Madurai
+4,Priya,20,95,92,Chennai
+5,Arjun,19,60,65,Trichy
+6,Kavya,18,88,85,Salem
+7,Suresh,21,55,58,Erode
+8,Ananya,20,91,89,Chennai
+9,Vikram,19,77,75,Coimbatore
+10,Divya,18,83,80,Madurai

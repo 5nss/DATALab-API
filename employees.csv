@@ -1,0 +1,11 @@
+emp_id,department,experience_years,salary,performance_rating
+101,IT,1,25000,3
+102,IT,3,45000,4
+103,HR,5,50000,4
+104,Finance,2,35000,3
+105,IT,7,80000,5
+106,HR,10,90000,5
+107,Finance,1,28000,2
+108,IT,4,60000,4
+109,HR,6,65000,4
+110,Finance,8,85000,5
